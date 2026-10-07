@@ -1,0 +1,12 @@
+# Archivos locales y temporales
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+.quarto/
+
+# Credenciales y configuración local
+.env
+.env.*
+!.env.example
