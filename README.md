@@ -1,5 +1,2 @@
-# Books OM Practices MSMEs
-
-Proyecto sobre prácticas de gestión de operaciones para micro, pequeñas y medianas empresas.
-
-Este repositorio alojará los documentos y materiales del proyecto.
+# Books-OM-for-MSMEs
+Este repositorio contiene la estructura y archivos de la serie de libros Gestión de Operaciones para Mipymes
