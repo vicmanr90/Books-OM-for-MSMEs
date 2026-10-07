@@ -1,0 +1,31 @@
+# Entornos y cachés
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+# Quarto y temporales regenerables
+.quarto/
+*.tmp
+*.temp
+*.swp
+~$*
+resultados_temporales/
+tmp/
+.respaldos/
+# Sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Credenciales (nunca almacenar secretos en Git)
+.env
+.env.*
+!.env.example
+credentials.json
+secrets.yml
+*.pem
+*.key

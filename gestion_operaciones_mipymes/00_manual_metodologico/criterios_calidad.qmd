@@ -1,0 +1,47 @@
+---
+title: "Criterios de calidad — esqueleto"
+lang: es
+format: html
+---
+
+## Principios
+
+TODO: Definir principios posteriormente.
+
+## Selección del instrumento de appraisal
+
+TODO: Definir selección del instrumento de appraisal posteriormente.
+
+## Estudios cuantitativos
+
+TODO: Definir estudios cuantitativos posteriormente.
+
+## Estudios cualitativos
+
+TODO: Definir estudios cualitativos posteriormente.
+
+## Estudios mixtos
+
+TODO: Definir estudios mixtos posteriormente.
+
+## Estudios de caso
+
+TODO: Definir estudios de caso posteriormente.
+
+## Modelación/optimización/simulación
+
+TODO: Definir modelación/optimización/simulación posteriormente.
+
+## Revisiones secundarias
+
+TODO: Definir revisiones secundarias posteriormente.
+
+## Resolución de desacuerdos
+
+TODO: Definir resolución de desacuerdos posteriormente.
+
+## Confianza en la evidencia
+
+TODO: Definir confianza en la evidencia posteriormente.
+
+TODO: seleccionar instrumentos según el diseño metodológico; no se han definido escalas.

@@ -1,0 +1,57 @@
+---
+title: "Política de uso de IA — esqueleto"
+lang: es
+format: html
+---
+
+## Propósito
+
+TODO: Definir propósito posteriormente.
+
+## Principios generales
+
+TODO: Definir principios generales posteriormente.
+
+## Trazabilidad
+
+TODO: Definir trazabilidad posteriormente.
+
+## Prohibición de inventar evidencia
+
+TODO: Definir prohibición de inventar evidencia posteriormente.
+
+## Evidencia y ubicación obligatorias
+
+TODO: Definir evidencia y ubicación obligatorias posteriormente.
+
+## Human-in-the-loop
+
+TODO: Definir human-in-the-loop posteriormente.
+
+## Tareas de alta automatización
+
+TODO: Definir tareas de alta automatización posteriormente.
+
+## Tareas de automatización supervisada
+
+TODO: Definir tareas de automatización supervisada posteriormente.
+
+## Decisiones exclusivamente humanas
+
+TODO: Definir decisiones exclusivamente humanas posteriormente.
+
+## Registro de prompts
+
+TODO: Definir registro de prompts posteriormente.
+
+## Validación de desempeño
+
+TODO: Definir validación de desempeño posteriormente.
+
+## Manejo de cambios de modelo
+
+TODO: Definir manejo de cambios de modelo posteriormente.
+
+## Declaración del uso de IA en publicaciones
+
+TODO: Definir declaración del uso de ia en publicaciones posteriormente.

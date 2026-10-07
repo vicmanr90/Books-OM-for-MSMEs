@@ -1,0 +1,9 @@
+[project]
+name = "gestion-operaciones-mipymes"
+version = "0.1.0"
+description = "Infraestructura reproducible para 22 proyectos de Gestión de Operaciones en MiPymes"
+requires-python = ">=3.10"
+dependencies = ["pyyaml", "pandas", "openpyxl", "pyarrow", "duckdb"]
+
+[tool.uv]
+package = false

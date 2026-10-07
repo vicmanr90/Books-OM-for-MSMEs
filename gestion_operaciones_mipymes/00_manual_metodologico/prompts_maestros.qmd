@@ -1,0 +1,173 @@
+---
+title: "Prompts maestros — esqueleto"
+lang: es
+format: html
+---
+
+## SYSTEM-RESEARCH-v1
+
+- prompt_id: SYSTEM-RESEARCH-v1
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## DELIMITACION
+
+- prompt_id: DELIMITACION
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## AUDITORIA-RQ
+
+- prompt_id: AUDITORIA-RQ
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## TAXONOMIA
+
+- prompt_id: TAXONOMIA
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## PROTOCOLO
+
+- prompt_id: PROTOCOLO
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## BUSQUEDA
+
+- prompt_id: BUSQUEDA
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## SCREENING
+
+- prompt_id: SCREENING
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## FULLTEXT
+
+- prompt_id: FULLTEXT
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## APPRAISAL
+
+- prompt_id: APPRAISAL
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## EXTRACCION
+
+- prompt_id: EXTRACCION
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## SINTESIS
+
+- prompt_id: SINTESIS
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## ORIENTACIONES
+
+- prompt_id: ORIENTACIONES
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## GAPS
+
+- prompt_id: GAPS
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.
+
+## REDACCION
+
+- prompt_id: REDACCION
+- version: TODO
+- objetivo: TODO
+- inputs: TODO
+- output esperado: TODO
+
+### Texto del prompt
+
+TODO: redactar y validar posteriormente.

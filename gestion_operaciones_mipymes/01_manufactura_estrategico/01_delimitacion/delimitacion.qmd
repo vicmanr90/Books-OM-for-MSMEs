@@ -1,0 +1,609 @@
+---
+title: "Etapa 1 — Delimitación del proyecto de manufactura y nivel estratégico"
+lang: es
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+Documento de trabajo del proyecto `manufactura_estrategico` (project_id: 1). Delimitación versión 1.0 aprobada por el equipo investigador el 2026-10-07. Los criterios conceptuales de inclusión y exclusión permanecen preliminares y no constituyen un protocolo definitivo de elegibilidad.
+
+**Base documental consultada:** [ficha del proyecto](../00_gobernanza/ficha_proyecto.yml), [manual metodológico](../../00_manual_metodologico/manual_metodologico.qmd) y [taxonomía maestra](../../00_manual_metodologico/taxonomia_maestra.csv). Los acuerdos siguientes proceden de las decisiones científicas aprobadas por el equipo investigador y suministradas para esta actualización. No se añaden referencias bibliográficas ni definiciones externas.
+
+**Convención de trabajo:** los acuerdos aprobados se desarrollan en las secciones siguientes y se resumen en el registro de decisiones. `TODO-HUMAN` identifica información no resuelta en los acuerdos suministrados. Las familias constituyen una taxonomía preliminar (v0).
+
+## Propósito de la delimitación
+
+> Establecer las fronteras conceptuales y de alcance que permitan identificar de manera consistente qué evidencia pertenece al estudio, especialmente en relación con la definición de MiPyme manufacturera, la naturaleza estratégica de las decisiones de operaciones y su diferenciación respecto de decisiones tácticas y operativas.
+
+La etapa se considera cerrada cuando estén definidos y aprobados:
+
+- definición operacional de MiPyme;
+- delimitación del sector manufacturero;
+- definición de decisión estratégica de operaciones;
+- familias preliminares de decisiones estratégicas;
+- fronteras estratégico–táctico y estratégico–operativo;
+- reglas para casos ambiguos;
+- criterios conceptuales preliminares de inclusión y exclusión;
+- alcance geográfico;
+- alcance temporal;
+- tipos de organizaciones incluidas.
+
+## Definición de MiPyme
+
+> Se considerará MiPyme una organización que sea identificada como micro, pequeña o mediana empresa por el estudio original, siempre que dicha clasificación sea consistente con la definición utilizada en su contexto nacional o institucional. Cuando el estudio no declare explícitamente la categoría, podrá clasificarse utilizando la información disponible sobre tamaño y una definición de referencia apropiada para el país o contexto.
+
+Reglas complementarias aprobadas:
+
+1. No se impondrá un único umbral mundial de empleados, ventas o activos.
+2. No se utilizará una definición colombiana para reclasificar automáticamente empresas de otros países.
+3. Se admitirán estudios que utilicen expresiones como `small business`, `small manufacturer`, `medium-sized firm` u otras equivalentes aunque no utilicen formalmente SME/MSME, siempre que el tamaño pueda justificarse.
+4. Cuando un estudio combine MiPymes y grandes empresas, se incluirá únicamente si los resultados correspondientes a las MiPymes pueden separarse razonablemente.
+5. Si el estudio declara que analiza SMEs/MSMEs pero no reporta información detallada sobre tamaño, se aceptará provisionalmente la clasificación declarada por los autores.
+6. Si no declara la categoría ni suministra información suficiente para determinarla, el tamaño se registrará como `no determinable`; no deberá inferirse.
+
+### Fuentes para clasificar MiPymes
+
+Cuando sea necesario clasificar una empresa a partir de información sobre tamaño, utilizar la siguiente jerarquía:
+
+1. definición oficial vigente en el país y periodo estudiado;
+2. definición supranacional aplicable al contexto;
+3. definición explícita utilizada por los autores del estudio.
+
+Reglas:
+
+- documentar siempre qué definición o fuente se utilizó;
+- no reclasificar arbitrariamente una organización;
+- no utilizar automáticamente una definición colombiana para organizaciones de otros países;
+- si no existe información suficiente, registrar el tamaño como `no determinable` o equivalente.
+
+## Delimitación del sector manufacturero
+
+> Se considerarán manufactureras las organizaciones cuya actividad principal corresponda a actividades de transformación de materiales, sustancias o componentes en productos, tomando como referencia general la Sección C — Manufactura de la ISIC/CIIU y sus equivalentes nacionales.
+
+Reglas aprobadas:
+
+1. Se incluirán todos los subsectores manufactureros; no se seleccionarán industrias particulares a priori.
+2. El subsector manufacturero deberá registrarse posteriormente como variable de extracción.
+3. No será necesario que el artículo utilice explícitamente ISIC/CIIU, siempre que la actividad pueda reconocerse razonablemente como manufacturera.
+4. En organizaciones con actividades mixtas, se incluirá el estudio cuando la evidencia correspondiente a manufactura pueda identificarse.
+5. En estudios multisectoriales, se incluirá cuando los resultados correspondientes a las empresas manufactureras puedan separarse razonablemente.
+6. Si la muestra es predominantemente manufacturera pero no existe separación completa, el caso deberá marcarse como ambiguo y someterse a revisión humana.
+7. No establecer una lista cerrada de subsectores en esta etapa.
+
+## Delimitación del nivel estratégico
+
+> Se considerará estratégica una decisión de operaciones cuando determine o modifique de forma sustancial la configuración, capacidades o estructura del sistema de operaciones de la organización, implique compromisos relevantes y relativamente duraderos de recursos, y condicione decisiones posteriores de planificación y ejecución.
+
+Características aprobadas:
+
+- configura o modifica estructuralmente el sistema de operaciones;
+- implica compromisos relevantes de recursos y capacidades;
+- produce efectos relativamente duraderos;
+- suele ser costosa o difícil de revertir;
+- condiciona decisiones tácticas y operativas posteriores;
+- afecta dimensiones centrales del sistema productivo;
+- puede involucrar alta dirección, pero el nivel jerárquico del decisor no constituye por sí solo un criterio suficiente.
+
+El horizonte temporal será considerado un indicio, pero NO un criterio determinante.
+
+Cuando exista discrepancia entre la etiqueta utilizada por el artículo y esta definición, prevalecerá la definición analítica adoptada por el proyecto.
+
+## Familias preliminares de decisiones estratégicas de operaciones
+
+Taxonomía preliminar (v0), todavía susceptible de refinamiento mediante la evidencia.
+
+### Decisiones estructurales
+
+#### Capacidad
+
+Incluye decisiones sobre:
+
+- tamaño de capacidad;
+- expansión;
+- contracción;
+- escalabilidad;
+- reservas estructurales de capacidad.
+
+#### Instalaciones y localización
+
+Incluye:
+
+- número de instalaciones;
+- ubicación;
+- especialización de plantas;
+- configuración general de instalaciones.
+
+#### Procesos y tecnología
+
+Incluye:
+
+- elección de procesos;
+- tecnologías productivas;
+- automatización;
+- transformación tecnológica de las operaciones.
+
+#### Integración y red de suministro
+
+Incluye:
+
+- make-or-buy;
+- outsourcing;
+- integración vertical;
+- estructura estratégica de proveedores;
+- configuración de la red de suministro.
+
+### Decisiones infraestructurales
+
+#### Estrategia de operaciones y prioridades competitivas
+
+Incluye:
+
+- costo;
+- calidad;
+- flexibilidad;
+- entrega;
+- innovación;
+- alineación entre estrategia empresarial y estrategia de operaciones.
+
+#### Organización y capacidades operacionales
+
+Incluye:
+
+- estructura organizativa de operaciones;
+- competencias;
+- conocimiento;
+- desarrollo de capacidades operacionales.
+
+#### Sistemas de gestión y control de operaciones
+
+Incluye el diseño estratégico de sistemas de:
+
+- calidad;
+- mantenimiento;
+- planificación;
+- medición del desempeño;
+- mejora continua.
+
+Regla aprobada:
+
+> La familia representa el objeto de la decisión, no la herramienta empleada ni el resultado perseguido.
+
+Sostenibilidad, resiliencia, digitalización, inteligencia artificial e innovación deberán tratarse inicialmente como **dimensiones transversales**, no como familias independientes.
+
+Esta taxonomía es **preliminar (v0)** y podrá revisarse durante el pilotaje y las siguientes etapas metodológicas.
+
+### Solapamientos entre familias preliminares
+
+Regla aprobada:
+
+> Cada decisión deberá asignarse a una familia primaria de acuerdo con el objeto principal de la decisión. Podrá recibir además etiquetas secundarias o transversales cuando corresponda.
+
+Los solapamientos detectados durante el pilotaje deberán:
+
+- registrarse;
+- documentarse;
+- utilizarse posteriormente para evaluar y refinar la taxonomía preliminar v0.
+
+## Frontera con decisiones tácticas
+
+Regla aprobada:
+
+> Una decisión es estratégica cuando configura la estructura, capacidades o arquitectura del sistema de operaciones; es táctica cuando determina cómo utilizar, asignar o ajustar esas capacidades dentro de una estructura ya definida.
+
+Ejemplos aprobados:
+
+- construir o ampliar permanentemente capacidad → estratégico;
+- ajustar turnos para cubrir demanda trimestral → táctico;
+- seleccionar tecnología → estratégico;
+- planificar producción agregada utilizando una tecnología existente → táctico.
+
+Reglas:
+
+1. El horizonte temporal ayuda a clasificar, pero no determina por sí mismo el nivel.
+2. Prevalece la naturaleza y efecto de la decisión sobre su denominación.
+3. Si un estudio combina decisiones estratégicas y tácticas, podrá incluirse cuando el componente estratégico sea identificable.
+4. Para este proyecto se extraerá prioritariamente la evidencia correspondiente al componente estratégico.
+
+Síntesis conceptual:
+
+- estratégico = configurar;
+- táctico = planificar y asignar.
+
+### Información necesaria para aplicar la frontera
+
+Para aplicar la frontera estratégico–táctico deberá existir información suficiente sobre, al menos:
+
+- objeto de la decisión;
+- alcance sobre el sistema de operaciones;
+- compromiso de recursos;
+- efecto sobre capacidades, estructura o configuración;
+- evidencia de si la decisión modifica dichas capacidades/configuración o únicamente las utiliza, asigna o ajusta.
+
+Si esta información no permite determinar el nivel decisional, clasificar el caso como:
+
+`uncertain`
+
+y remitirlo a revisión humana.
+
+## Frontera con decisiones operativas
+
+> Una decisión es estratégica cuando configura el sistema de operaciones; una decisión es operativa cuando gobierna su ejecución cotidiana dentro de una configuración ya establecida.
+
+Ejemplos:
+
+Estratégicos:
+
+- seleccionar tecnología de producción;
+- rediseñar estructuralmente una planta;
+- definir integración vertical;
+- instalar capacidad.
+
+Operativos:
+
+- secuenciar órdenes;
+- asignar máquinas;
+- asignar trabajadores;
+- despachar pedidos;
+- programar tareas cotidianas;
+- controlar operaciones de corto plazo.
+
+Reglas:
+
+1. La frecuencia de la decisión puede servir como indicio, pero no determina el nivel.
+2. Una intervención operativa no se convierte en estratégica únicamente porque genere efectos duraderos.
+3. Para ser estratégica debe afectar configuración, capacidades o arquitectura del sistema.
+4. Una mejora incremental no será considerada automáticamente estratégica.
+5. Los estudios que combinen niveles podrán incluirse si el componente estratégico es identificable.
+
+Síntesis conceptual:
+
+- estratégico = configurar;
+- táctico = planificar y asignar;
+- operativo = ejecutar y controlar.
+
+### Relación con resultados operativos
+
+Regla aprobada:
+
+> Los resultados operativos podrán considerarse relevantes para este estudio cuando el artículo establezca una relación identificable entre una decisión o intervención estratégica de operaciones y el resultado operativo evaluado.
+
+No atribuir a una decisión estratégica resultados meramente concurrentes o no vinculados por el estudio.
+
+La relación podrá ser:
+
+- analizada empíricamente;
+- explícitamente argumentada por los autores;
+- evaluada mediante un modelo o método claramente vinculado con la decisión estratégica.
+
+La naturaleza y fortaleza de dicha relación deberá registrarse posteriormente durante la extracción.
+
+## Casos ambiguos o fronterizos
+
+Reglas aprobadas:
+
+1. Decisión híbrida estratégico–táctica:
+   - incluir si existe un componente estratégico identificable;
+   - extraer para este proyecto el componente estratégico.
+
+2. Intervención estratégica con consecuencias operativas:
+   - incluir;
+   - clasificar según la decisión principal y no según todos sus efectos posteriores.
+
+3. Intervención operativa con efectos duraderos:
+   - no clasificar como estratégica únicamente por la duración de sus efectos;
+   - debe modificar configuración, capacidades o arquitectura.
+
+4. Estudio multisectorial:
+   - incluir solamente cuando la evidencia manufacturera pueda identificarse razonablemente.
+
+5. El artículo denomina `strategic` una decisión que no cumple los criterios del proyecto:
+   - prevalece la taxonomía y definición del proyecto.
+
+6. No puede determinarse el nivel decisional:
+   - clasificar como `uncertain`;
+   - enviar a revisión humana;
+   - no excluir automáticamente.
+
+7. Desacuerdo entre evaluadores:
+   - discusión entre los dos revisores;
+   - si persiste el desacuerdo, adjudicación por un tercer investigador.
+
+Principio general aprobado:
+
+> Ante ambigüedad durante las primeras etapas de selección, conservar temporalmente el estudio antes que excluirlo.
+
+### Registro abierto de casos fronterizos
+
+No agregar casos hipotéticos adicionales en esta etapa.
+
+Se adopta un:
+
+`registro abierto de casos fronterizos`
+
+durante las fases de screening, elegibilidad y extracción.
+
+Cada caso nuevo deberá documentar:
+
+- descripción del problema;
+- criterio implicado;
+- decisión adoptada;
+- justificación;
+- revisores participantes;
+- necesidad o no de modificar una regla existente.
+
+Si la resolución modifica una regla metodológica, deberá quedar registrada mediante el mecanismo de control de cambios del protocolo.
+
+## Criterios conceptuales preliminares de inclusión
+
+Criterios conceptuales preliminares aprobados:
+
+1. El estudio analiza micro, pequeñas o medianas empresas manufactureras, o permite aislar razonablemente sus resultados.
+2. Examina al menos una decisión o intervención de gestión de operaciones de naturaleza estratégica conforme a la definición del proyecto.
+3. La decisión afecta configuración, capacidades, estructura o arquitectura del sistema de operaciones.
+4. El estudio aporta información útil sobre al menos uno de los siguientes elementos:
+   - prácticas;
+   - métodos;
+   - herramientas;
+   - tecnologías;
+   - condiciones;
+   - barreras;
+   - facilitadores;
+   - resultados.
+5. En estudios mixtos por tamaño, sector o nivel decisional, la evidencia relevante debe poder identificarse razonablemente.
+6. Ante información insuficiente para decidir durante etapas iniciales, el registro pasará a `uncertain` en lugar de excluirse automáticamente.
+7. No será obligatorio que el estudio reporte resultados cuantitativos de desempeño; podrán admitirse estudios relevantes sobre barreras, procesos de adopción, configuraciones, mecanismos u otros elementos pertinentes.
+
+### Combinación de criterios nucleares
+
+Lógica aprobada para los criterios nucleares:
+
+`MiPyme AND Manufactura AND Decisión estratégica de operaciones`
+
+Los tres criterios son obligatorios.
+
+Además, el estudio deberá aportar información relevante sobre al menos uno de los siguientes elementos:
+
+- práctica;
+- método;
+- herramienta;
+- tecnología;
+- contexto;
+- condición;
+- barrera;
+- facilitador;
+- mecanismo;
+- resultado.
+
+Regla de incertidumbre:
+
+> Si alguno de los criterios nucleares no puede determinarse con la información disponible, el estudio deberá clasificarse como `uncertain` en lugar de excluirse automáticamente.
+
+## Criterios conceptuales preliminares de exclusión
+
+1. Estudios exclusivamente sobre grandes empresas sin resultados separables para MiPymes.
+2. Estudios exclusivamente sobre sectores no manufactureros sin evidencia manufacturera distinguible.
+3. Estudios centrados exclusivamente en decisiones tácticas u operativas.
+4. Trabajos puramente tecnológicos donde la tecnología no se relacione con una decisión estratégica de operaciones.
+5. Estudios sobre desempeño general, emprendimiento, finanzas, marketing, recursos humanos u otras áreas sin vínculo identificable con la configuración estratégica de operaciones.
+6. Estudios donde los autores utilicen el término `strategic`, pero la decisión analizada no cumpla la definición estratégica adoptada por el proyecto.
+
+Estos criterios son **conceptuales y preliminares**; no constituyen un protocolo de elegibilidad definitivo.
+
+### Coherencia entre inclusión y exclusión
+
+Principio aprobado:
+
+> Los criterios de exclusión funcionarán como contraparte de los criterios nucleares de inclusión y solo se aplicarán cuando exista evidencia suficiente de que alguno de ellos no se cumple.
+
+Regla fundamental:
+
+`ausencia de información != incumplimiento del criterio`
+
+Por tanto:
+
+- evidencia clara de incumplimiento → exclusión;
+- información insuficiente → `uncertain`;
+- evidencia suficiente de cumplimiento → continuar evaluación.
+
+Se realizó una revisión conceptual de coherencia y no se identifican contradicciones que impidan cerrar la etapa.
+
+## Alcance geográfico
+
+> El alcance geográfico será mundial, sin restricciones por país o región.
+
+Reglas:
+
+1. La ubicación de las empresas deberá registrarse posteriormente como variable de extracción.
+2. Esto permitirá realizar comparaciones regionales o entre diferentes contextos económicos.
+3. En estudios multinacionales deberán conservarse los contextos geográficos identificables.
+
+### Estudios sin ubicación identificable
+
+Acuerdo aprobado:
+
+> La ausencia de información geográfica no será motivo de exclusión.
+
+Cuando no pueda identificarse el país o región de la organización estudiada:
+
+- registrar `not_reported`, `unknown` o el valor normalizado equivalente;
+- conservar el estudio si satisface los demás criterios.
+
+## Alcance temporal
+
+> No se establece inicialmente un límite inferior de publicación. El límite superior corresponderá a la fecha final de ejecución de la búsqueda bibliográfica.
+
+La cobertura será, por tanto:
+
+> Desde el inicio de cobertura de las bases seleccionadas hasta la fecha de ejecución de la búsqueda.
+
+Reglas:
+
+1. No imponer inicialmente un corte temporal arbitrario.
+2. Permitir observar la evolución histórica del campo.
+3. Solo podrá establecerse posteriormente un límite inferior si la búsqueda piloto demuestra una razón metodológica suficientemente justificada.
+4. Cualquier cambio posterior deberá registrarse como modificación metodológica.
+
+### Fechas desconocidas
+
+Acuerdo aprobado:
+
+> La ausencia inicial de una fecha no será motivo automático de exclusión.
+
+Procedimiento:
+
+1. intentar verificar la fecha mediante los metadatos bibliográficos disponibles;
+2. si continúa siendo desconocida, registrar `not_reported`;
+3. someter a revisión humana únicamente si la ausencia de fecha afecta la aplicación del límite temporal de la búsqueda.
+
+## Tipos de organizaciones incluidas
+
+Decisiones aprobadas:
+
+#### Forma jurídica
+
+No será criterio de exclusión por sí misma.
+
+#### Formalidad
+
+No excluir automáticamente organizaciones informales. Registrar la condición de formalidad cuando esté disponible.
+
+#### Propiedad
+
+Incluir empresas independientes y unidades pertenecientes a grupos empresariales siempre que la unidad analizada pueda caracterizarse como MiPyme.
+
+#### Unidad organizacional
+
+Podrán admitirse:
+
+- empresas;
+- plantas;
+- establecimientos manufactureros;
+
+siempre que la unidad observada sea claramente identificable y pertinente para el análisis.
+
+#### Formas organizativas particulares
+
+Podrán incluirse:
+
+- empresas familiares;
+- cooperativas;
+- otras formas organizativas;
+
+si cumplen los criterios de tamaño y actividad manufacturera.
+
+#### Startups
+
+Incluir startups manufactureras cuando exista una operación manufacturera real.
+
+Excluir estudios centrados exclusivamente en emprendimiento, intención empresarial o creación futura de empresas sin un sistema productivo en funcionamiento.
+
+Regla general aprobada:
+
+> La forma organizativa no será criterio de exclusión por sí misma; lo relevante será que exista una unidad manufacturera operativa clasificable como MiPyme y que el estudio analice decisiones estratégicas de operaciones.
+
+### Características organizacionales adicionales
+
+No establecer en esta etapa nuevas características organizacionales como requisitos de elegibilidad.
+
+Variables como:
+
+- propiedad familiar;
+- formalidad;
+- pertenencia a grupos empresariales;
+- antigüedad;
+- estructura organizacional;
+- otras características descriptivas;
+
+podrán registrarse durante la extracción cuando estén disponibles, pero no serán requisitos para inclusión.
+
+## Preguntas pendientes de decisión humana
+
+No permanecen pendientes conceptuales ni pendientes bloqueantes que impidan cerrar la Etapa 1. Los elementos conceptuales antes señalados como TODO-HUMAN han sido resueltos mediante los acuerdos incorporados en sus secciones correspondientes.
+
+Estado tras los acuerdos aprobados:
+
+> No permanecen pendientes conceptuales que impidan cerrar la Etapa 1.
+
+Los futuros casos no previstos se gestionarán durante el pilotaje mediante:
+
+1. identificación del caso;
+2. clasificación como `uncertain` cuando corresponda;
+3. revisión por los investigadores;
+4. resolución por consenso;
+5. adjudicación por un tercer investigador si persiste desacuerdo;
+6. registro de la decisión;
+7. actualización versionada de las reglas únicamente si fuera necesario.
+
+La prioridad será siempre resolver primero los casos que puedan afectar:
+
+- criterios de elegibilidad;
+- clasificación del nivel decisional;
+- clasificación sectorial;
+- clasificación por tamaño empresarial.
+
+Los demás refinamientos podrán resolverse posteriormente sin detener el proceso.
+
+Permanece únicamente la información documental no suministrada señalada como TODO-HUMAN en el registro de decisiones: justificación adicional y fuentes de respaldo que el equipo aporte, y qué decisión previa sustituye cada acuerdo, si corresponde. No constituye un pendiente conceptual bloqueante.
+
+## Decisiones adoptadas
+
+Procedencia común: acuerdos científicos aprobados por el equipo investigador durante la Etapa 1, suministrados para esta actualización. El texto completo se conserva en las secciones correspondientes. Los resúmenes siguientes permiten su trazabilidad.
+
+| Identificador | Decisión aprobada | Apartado afectado | Responsable de aprobación | Fecha |
+|---|---|---|---|---|
+| DEL-001 | Propósito y condiciones de cierre de la Etapa 1. | Propósito de la delimitación | equipo investigador | 2026-10-07 |
+| DEL-002 | Definición operacional contextual de MiPyme y reglas para clasificaciones declaradas, tamaños mixtos e información insuficiente. | Definición de MiPyme | equipo investigador | 2026-10-07 |
+| DEL-003 | Manufactura con referencia general a Sección C de ISIC/CIIU y equivalentes nacionales; todos los subsectores y reglas de evidencia mixta. | Delimitación del sector manufacturero | equipo investigador | 2026-10-07 |
+| DEL-004 | Definición estratégica y características; horizonte como indicio y prevalencia de la definición analítica. | Delimitación del nivel estratégico | equipo investigador | 2026-10-07 |
+| DEL-005 | Siete familias estructurales e infraestructurales como taxonomía preliminar v0; familia según objeto y dimensiones transversales diferenciadas. | Familias preliminares de decisiones estratégicas de operaciones | equipo investigador | 2026-10-07 |
+| DEL-006 | Estratégico: configurar; táctico: planificar y asignar; evidencia estratégica identificable y extracción prioritaria. | Frontera con decisiones tácticas | equipo investigador | 2026-10-07 |
+| DEL-007 | Operativo: ejecutar y controlar; reglas sobre frecuencia, efectos duraderos, mejora incremental y niveles mixtos. | Frontera con decisiones operativas | equipo investigador | 2026-10-07 |
+| DEL-008 | Reglas para casos ambiguos; uncertain y revisión humana; discusión de dos revisores y adjudicación por tercero si persiste el desacuerdo. | Casos ambiguos o fronterizos | equipo investigador | 2026-10-07 |
+| DEL-009 | Criterios conceptuales preliminares de inclusión; información relevante identificable y sin obligación de resultados cuantitativos. | Criterios conceptuales preliminares de inclusión | equipo investigador | 2026-10-07 |
+| DEL-010 | Criterios conceptuales preliminares de exclusión; no constituyen elegibilidad definitiva. | Criterios conceptuales preliminares de exclusión | equipo investigador | 2026-10-07 |
+| DEL-011 | Alcance mundial; registro posterior de ubicación y conservación de contextos multinacionales identificables. | Alcance geográfico | equipo investigador | 2026-10-07 |
+| DEL-012 | Sin límite inferior inicial de publicación; límite superior en fecha final de ejecución de búsqueda; cambios posteriores documentados. | Alcance temporal | equipo investigador | 2026-10-07 |
+| DEL-013 | Tipos organizacionales según reglas aprobadas; unidad manufacturera operativa clasificable como MiPyme y decisiones estratégicas de operaciones. | Tipos de organizaciones incluidas | equipo investigador | 2026-10-07 |
+| DEL-014 | Jerarquía de fuentes para clasificar MiPymes y documentación de la definición utilizada. | Definición de MiPyme | equipo investigador | 2026-10-07 |
+| DEL-015 | Familia primaria según objeto principal; etiquetas secundarias o transversales; registro y refinamiento de solapamientos. | Familias preliminares de decisiones estratégicas de operaciones | equipo investigador | 2026-10-07 |
+| DEL-016 | Información necesaria para distinguir estratégico y táctico; uncertain y revisión humana cuando no sea suficiente. | Frontera con decisiones tácticas | equipo investigador | 2026-10-07 |
+| DEL-017 | Relación identificable entre decisión estratégica y resultado operativo; registro de naturaleza y fortaleza durante extracción. | Frontera con decisiones operativas | equipo investigador | 2026-10-07 |
+| DEL-018 | Registro abierto de casos fronterizos y control de cambios del protocolo cuando se modifique una regla. | Casos ambiguos o fronterizos | equipo investigador | 2026-10-07 |
+| DEL-019 | MiPyme AND Manufactura AND Decisión estratégica de operaciones; tres criterios obligatorios e información relevante; uncertain ante insuficiencia. | Criterios conceptuales preliminares de inclusión | equipo investigador | 2026-10-07 |
+| DEL-020 | Exclusión solo con evidencia suficiente de incumplimiento; revisión conceptual sin contradicciones que impidan el cierre. | Criterios conceptuales preliminares de exclusión | equipo investigador | 2026-10-07 |
+| DEL-021 | Ausencia de ubicación no excluye; not_reported, unknown o equivalente normalizado. | Alcance geográfico | equipo investigador | 2026-10-07 |
+| DEL-022 | Verificar fechas con metadatos disponibles; not_reported si siguen desconocidas; revisión humana solo si afecta límite temporal. | Alcance temporal | equipo investigador | 2026-10-07 |
+| DEL-023 | Sin requisitos organizacionales adicionales; variables descriptivas durante extracción cuando estén disponibles. | Tipos de organizaciones incluidas | equipo investigador | 2026-10-07 |
+| DEL-024 | Sin pendientes conceptuales bloqueantes; gestión de futuros casos y prioridades conforme al acuerdo aprobado. | Preguntas pendientes de decisión humana | equipo investigador | 2026-10-07 |
+
+**TODO-HUMAN:** documentar justificación adicional y fuentes de respaldo que el equipo aporte, así como qué decisión previa sustituye cada acuerdo, si corresponde. Esa información no fue suministrada.
+
+## Versión resultante de la delimitación
+
+La versión 1.0 está aprobada por el equipo investigador con fecha 2026-10-07. Los acuerdos DEL-001 a DEL-024, desarrollados en las secciones anteriores, integran la delimitación resultante.
+
+| Campo | Registro |
+|---|---|
+| Estado de la delimitación | Aprobada |
+| Versión | 1.0 |
+| Decisiones que sustentan la versión | DEL-001 a DEL-024 |
+| Fecha y responsable de aprobación | 2026-10-07; equipo investigador |
+| Taxonomía de familias | Preliminar (v0) |
+| Criterios de inclusión y exclusión | Conceptuales y preliminares; no constituyen protocolo definitivo de elegibilidad |
+| Información abierta | Únicamente información documental no suministrada, señalada en el registro de decisiones |
+| Pendientes bloqueantes | Ninguno |
+
+### Metadatos de estado
+
+```yaml
+version_delimitacion: "1.0"
+estado_delimitacion: aprobada
+fecha_aprobacion: 2026-10-07
+pendientes_bloqueantes: ninguno
+```
+
+La taxonomía de familias de decisiones estratégicas permanece como **preliminar (v0)** y podrá revisarse durante el pilotaje y las siguientes etapas metodológicas.
+
+La delimitación conceptual queda aprobada y la Etapa 1 formalmente cerrada, sin pendientes bloqueantes. La taxonomía de familias estratégicas permanece como **preliminar v0** y podrá refinarse mediante el pilotaje. Cualquier modificación sustantiva posterior deberá registrarse mediante control de cambios.

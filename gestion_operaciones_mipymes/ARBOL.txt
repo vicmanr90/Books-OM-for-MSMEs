@@ -1,0 +1,98 @@
+gestion_operaciones_mipymes/
+    ARBOL.txt (este archivo)
+|-- _template_proyecto
+|   |-- 00_gobernanza
+|   |   |-- ficha_proyecto.yml
+|   |   |-- README.md
+|   |   |-- registro_cambios_protocolo.csv
+|   |   |-- registro_decisiones.csv
+|   |   \-- registro_prompts.csv
+|   |-- 01_delimitacion
+|   |   \-- README.md
+|   |-- 02_protocolo
+|   |   \-- README.md
+|   |-- 03_busqueda
+|   |   \-- README.md
+|   |-- 04_screening
+|   |   \-- README.md
+|   |-- 05_fulltext
+|   |   \-- README.md
+|   |-- 06_calidad
+|   |   \-- README.md
+|   |-- 07_extraccion
+|   |   \-- README.md
+|   |-- 08_sintesis
+|   |   \-- README.md
+|   |-- 09_orientaciones
+|   |   \-- README.md
+|   |-- 10_validacion
+|   |   \-- README.md
+|   |-- 11_manuscrito
+|   |   \-- README.md
+|   \-- README.md
+|-- .gitignore
+|-- 00_manual_metodologico
+|   |-- criterios_calidad.qmd
+|   |-- diccionario_variables.xlsx
+|   |-- manual_metodologico.qmd
+|   |-- politica_uso_IA.qmd
+|   |-- prompts_maestros.qmd
+|   \-- taxonomia_maestra.csv
+|-- 01_manufactura_estrategico
+|   |-- 00_gobernanza
+|   |   |-- ficha_proyecto.yml
+|   |   |-- README.md
+|   |   |-- registro_cambios_protocolo.csv
+|   |   |-- registro_decisiones.csv
+|   |   \-- registro_prompts.csv
+|   |-- 01_delimitacion
+|   |   \-- README.md
+|   |-- 02_protocolo
+|   |   \-- README.md
+|   |-- 03_busqueda
+|   |   \-- README.md
+|   |-- 04_screening
+|   |   \-- README.md
+|   |-- 05_fulltext
+|   |   \-- README.md
+|   |-- 06_calidad
+|   |   \-- README.md
+|   |-- 07_extraccion
+|   |   \-- README.md
+|   |-- 08_sintesis
+|   |   \-- README.md
+|   |-- 09_orientaciones
+|   |   \-- README.md
+|   |-- 10_validacion
+|   |   \-- README.md
+|   |-- 11_manuscrito
+|   |   \-- README.md
+|   \-- README.md
+|-- 22_integrador
+|   |-- 00_gobernanza
+|   |   |-- ficha_proyecto.yml
+|   |   |-- README.md
+|   |   |-- registro_cambios_protocolo.csv
+|   |   |-- registro_decisiones.csv
+|   |   \-- registro_prompts.csv
+|   |-- 01_base_maestra
+|   |   \-- README.md
+|   |-- 02_armonizacion
+|   |   \-- README.md
+|   |-- 03_analisis_transversal
+|   |   \-- README.md
+|   |-- 04_sintesis
+|   |   \-- README.md
+|   |-- 05_framework
+|   |   \-- README.md
+|   |-- 06_manuscrito
+|   |   \-- README.md
+|   \-- README.md
+|-- config
+|   \-- proyectos.yml
+|-- pyproject.toml
+|-- README.md
+\-- scripts
+    |-- _estructura.py
+    |-- crear_proyecto.py
+    \-- validar_estructura.py

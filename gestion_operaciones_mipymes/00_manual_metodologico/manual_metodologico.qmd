@@ -1,0 +1,101 @@
+---
+title: "Manual metodológico — esqueleto"
+lang: es
+format: html
+---
+
+## Propósito de la colección
+
+TODO: Definir propósito de la colección posteriormente.
+
+## Principios metodológicos
+
+TODO: Definir principios metodológicos posteriormente.
+
+## Arquitectura general de los proyectos
+
+TODO: Definir arquitectura general de los proyectos posteriormente.
+
+## Etapa 0 — Gobernanza
+
+TODO: Definir etapa 0 — gobernanza posteriormente.
+
+## Etapa 1 — Delimitación
+
+TODO: Definir etapa 1 — delimitación posteriormente.
+
+## Etapa 2 — Preguntas y objetivos
+
+TODO: Definir etapa 2 — preguntas y objetivos posteriormente.
+
+## Etapa 3 — Taxonomía preliminar
+
+TODO: Definir etapa 3 — taxonomía preliminar posteriormente.
+
+## Etapa 4 — Protocolo
+
+TODO: Definir etapa 4 — protocolo posteriormente.
+
+## Etapa 5 — Estrategia de búsqueda
+
+TODO: Definir etapa 5 — estrategia de búsqueda posteriormente.
+
+## Etapa 6 — Screening
+
+TODO: Definir etapa 6 — screening posteriormente.
+
+## Etapa 7 — Elegibilidad a texto completo
+
+TODO: Definir etapa 7 — elegibilidad a texto completo posteriormente.
+
+## Etapa 8 — Evaluación crítica
+
+TODO: Definir etapa 8 — evaluación crítica posteriormente.
+
+## Etapa 9 — Extracción
+
+TODO: Definir etapa 9 — extracción posteriormente.
+
+## Etapa 10 — Mapeo
+
+TODO: Definir etapa 10 — mapeo posteriormente.
+
+## Etapa 11 — Síntesis
+
+TODO: Definir etapa 11 — síntesis posteriormente.
+
+## Etapa 12 — Orientaciones
+
+TODO: Definir etapa 12 — orientaciones posteriormente.
+
+## Etapa 13 — Vacíos y agenda
+
+TODO: Definir etapa 13 — vacíos y agenda posteriormente.
+
+## Etapa 14 — Validación con expertos/practicantes
+
+TODO: Definir etapa 14 — validación con expertos/practicantes posteriormente.
+
+## Etapa 15 — Construcción del manuscrito
+
+TODO: Definir etapa 15 — construcción del manuscrito posteriormente.
+
+## Integración de los 21 estudios
+
+TODO: Definir integración de los 21 estudios posteriormente.
+
+## Proyecto 22
+
+TODO: Definir proyecto 22 posteriormente.
+
+## Control de versiones
+
+TODO: Definir control de versiones posteriormente.
+
+## Reproducibilidad
+
+TODO: Definir reproducibilidad posteriormente.
+
+## Uso de inteligencia artificial
+
+TODO: Definir uso de inteligencia artificial posteriormente.

@@ -1,0 +1,90 @@
+# Identificador administrativo del registro maestro.
+project_id: 1
+
+# Identificador legible; coincide con el registro maestro.
+slug: manufactura_estrategico
+
+# Título de trabajo; podrá ajustarse después de la delimitación.
+titulo_provisional: "Gestión de operaciones en MiPymes manufactureras: un enfoque basado en decisiones estratégicas"
+
+# Derivado del registro maestro.
+sector: manufactura
+
+# Se definirán después de analizar la delimitación sectorial.
+subsectores: []
+
+# Derivado del registro maestro.
+nivel_decisional: estrategico
+
+# Población común de la colección.
+poblacion_objetivo: mipymes
+
+# Fenómeno general que se pretende estudiar.
+objeto_estudio: >
+  La evidencia científica sobre las decisiones estratégicas de gestión
+  de operaciones en MiPymes manufactureras, incluyendo las configuraciones,
+  prácticas, métodos, herramientas y tecnologías utilizadas para diseñar
+  y desarrollar sus sistemas de operaciones.
+
+# Unidad conceptual sobre la cual se realizará la extracción y síntesis.
+unidad_analisis: >
+  Las decisiones e intervenciones estratégicas de operaciones reportadas
+  en los estudios incluidos y su relación con el contexto organizacional,
+  las condiciones de aplicación y los resultados obtenidos.
+
+# Pregunta general del proyecto.
+pregunta_central: >
+  ¿Qué evidencia científica existe sobre las decisiones estratégicas de
+  gestión de operaciones en las MiPymes manufactureras, qué prácticas y
+  configuraciones han sido estudiadas, bajo qué condiciones se aplican
+  y qué resultados se han reportado?
+
+# Propósito general.
+objetivo_general: >
+  Sintetizar sistemáticamente la evidencia científica sobre las decisiones
+  estratégicas de gestión de operaciones en MiPymes manufactureras, con el
+  fin de identificar las prácticas y configuraciones estudiadas, sus
+  condiciones de aplicabilidad y resultados, y derivar orientaciones
+  basadas en evidencia para la toma de decisiones.
+
+# Estos objetivos podrán refinarse al aprobar el protocolo.
+objetivos_especificos:
+  - >
+    Identificar y clasificar las principales decisiones estratégicas de
+    gestión de operaciones estudiadas en MiPymes manufactureras.
+  - >
+    Caracterizar las prácticas, métodos, herramientas y tecnologías
+    asociadas con dichas decisiones.
+  - >
+    Analizar los contextos organizacionales y sectoriales, barreras,
+    facilitadores y condiciones bajo las cuales se han aplicado.
+  - >
+    Examinar los resultados operacionales y organizacionales reportados
+    y la solidez de la evidencia que los respalda.
+  - >
+    Identificar convergencias, contradicciones y vacíos en el conocimiento
+    existente.
+  - >
+    Formular orientaciones para tomadores de decisiones y una agenda de
+    investigación basada en la evidencia sintetizada.
+
+# Incorporar únicamente investigadores confirmados.
+investigadores: []
+
+# Inicio formal del proyecto.
+fecha_inicio: 2026-10-07
+
+# Se mantiene hasta completar la fase inicial de delimitación.
+estado: planificado
+
+# Se asignará cuando el protocolo sea aprobado.
+version_protocolo: null
+
+# Se asignará cuando exista una taxonomía aprobada.
+version_taxonomia: null
+
+# Información útil para comprender la función del proyecto en la colección.
+observaciones: >
+  Primer proyecto sectorial de la colección y proyecto piloto para validar
+  y refinar el procedimiento metodológico común que posteriormente será
+  aplicado a los demás estudios.

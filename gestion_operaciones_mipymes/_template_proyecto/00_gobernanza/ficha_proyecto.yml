@@ -1,0 +1,36 @@
+# Identificador administrativo del registro maestro.
+project_id: null
+# Identificador legible; coincide con el registro maestro.
+slug: null
+# TODO: definir; no es un título definitivo.
+titulo_provisional: null
+# Derivado del registro maestro.
+sector: null
+# TODO: delimitar posteriormente.
+subsectores: []
+# Derivado del registro maestro.
+nivel_decisional: null
+# Población indicada para la colección.
+poblacion_objetivo: mipymes
+# TODO: definir científicamente.
+objeto_estudio: null
+# TODO: definir en el protocolo.
+unidad_analisis: null
+# TODO: formular posteriormente.
+pregunta_central: null
+# TODO: formular posteriormente.
+objetivo_general: null
+# TODO: formular posteriormente.
+objetivos_especificos: []
+# TODO: asignar responsables.
+investigadores: []
+# TODO: fecha ISO 8601 al iniciar.
+fecha_inicio: null
+# Estado administrativo del registro maestro.
+estado: null
+# TODO: asignar cuando exista protocolo.
+version_protocolo: null
+# TODO: asignar cuando exista taxonomía aprobada.
+version_taxonomia: null
+# TODO: registrar observaciones reales.
+observaciones: null
